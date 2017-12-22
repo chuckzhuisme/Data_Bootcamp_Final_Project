@@ -1,4 +1,4 @@
-Fall 2017 Data Bootcamp Final Project
+# Data_Bootcamp_Final_Project
 
 This project was completed by Chuck Zhu in partial fulfilment of ECON-UB.0232, Data Bootcamp, Fall 2017. I certify that the NYU Stern Honor Code applies to this project. In particular, I have:
 
